@@ -1,2 +1,2 @@
 # hello-world
-Just anothet bot
+Just another bot
